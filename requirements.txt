@@ -1,7 +1,6 @@
 colorama
 aiohttp
 asyncio
-subprocess
 multiprocess
 sys
 time
