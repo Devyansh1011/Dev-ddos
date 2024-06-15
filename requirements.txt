@@ -2,5 +2,3 @@ colorama
 aiohttp
 asyncio
 multiprocess
-time
-os
