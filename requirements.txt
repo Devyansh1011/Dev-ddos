@@ -1,0 +1,9 @@
+colorama
+threading
+aiohttp
+asyncio
+subprocess
+multiprocess
+sys
+time
+os
